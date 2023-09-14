@@ -1,4 +1,6 @@
 # Discrete Mathematics I
-Notes and Assignments for Discrete Mathematics I<br>
+Lecture Notes and Assignments for Discrete Mathematics I<br>
 Discussion Points:<br>
-I. Set Theory
+1. Set Theory
+2. Relations
+3. Functions, Sequences, Strings and Regex
